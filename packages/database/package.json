@@ -22,7 +22,7 @@
     "@nftstorage/ipfs-cluster": "^3.3.0",
     "@web-std/fetch": "^2.0.3",
     "dotenv": "^10.0.0",
-    "faunadb": "^4.3.0",
+    "faunadb": "^4.8.1",
     "subprogram": "^1.2.0",
     "yargs": "^17.0.1"
   },
